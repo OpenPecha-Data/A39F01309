@@ -1,0 +1,19 @@
+segment_sources:
+  P20F2BA42:
+    type: origin_type
+    relation: translation
+    language: en
+  PDB6F8F49:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0bc7d9bdba8844c199619ed4be90fd8c:
+    P20F2BA42: 28a052e88edd42bbbef635bde1a3a16c
+    PDB6F8F49: bc56d7e55c14421680ccbeb536fde2cc
+  3e2e345393924b2f97a2af398511d5da:
+    P20F2BA42: c22eee065b8249adb5ae2efdc1962605
+    PDB6F8F49: 18b5aaa3d68345fcb6ff59903b0b65b9
+  2f0cc2d64ada4c88936080479ec6bc11:
+    P20F2BA42: 81f01e325ba8496092d4a6da8dd48289
+    PDB6F8F49: 6944d00535a348caada5afa809bdebb6
